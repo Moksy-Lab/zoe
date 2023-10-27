@@ -3,9 +3,16 @@
 .headere2d79a3ca0c8814a .head{ 
     color: #7B33FD;
 }
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .active>.nav-link{
+    color: #33363D
+}
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .nav-link {
+    color: #33363D
+}
 .headere2d79a3ca0c8814a .button{
     border-radius: 0px;
-    background-color: #7B33FD
+    background-color: #7B33FD;
+    color: #fff
 }
 /* #hasis(e2d79a3ca0c8814a) #css ends  */
 /*****hasis*****/
@@ -15,8 +22,12 @@
 .aboutp3dce575962b3c369  .jumbotron {
     background-color: #fff
 }
+.aboutp3dce575962b3c369 .DescriptionHeading {
+    font-size: 40px;
+    color: #33363D
+}
     .aboutp3dce575962b3c369 .DescriptionPara {
-        color: #0A033C;
+        color: #33363D;
         font-size: 18px
     }
     
@@ -32,8 +43,17 @@
 
 /*****single*****/
 /* #single(eb6af6ab30a03fde) #css starts  */
+.serviceeb6af6ab30a03fde {
+    background: #fff
+}
+.serviceeb6af6ab30a03fde .box {
+    padding: 0px 0px
+}
 .serviceeb6af6ab30a03fde .fa{
- color: #7B33FD
+ color: #33363D
+}
+.serviceeb6af6ab30a03fde .text {
+    margin: 0px 0px;
 }
 .serviceeb6af6ab30a03fde h4 {
     font-size: 1rem;
@@ -49,7 +69,14 @@
     padding: 2.5rem 0
  }
  .florencepo6oslbpdcb a {
+    color: #33363D;
+    font-weight: 600
+ }
+ .florencepo6oslbpdcb a:hover {
     color: #7B33FD
+ }
+ .florencepo6oslbpdcb .fdb-block img + p{
+    margin-top: 10px
  }
 /* #florence(florencepo6oslbpdcb) #css starts */
 /*****florence*****/
