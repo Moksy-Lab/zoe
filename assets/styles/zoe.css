@@ -60,6 +60,9 @@
     font-weight: 600;
     margin-top: 10px
 }
+.serviceeb6af6ab30a03fde .card-title{
+    font-size: 16px
+}
 /* #single(eb6af6ab30a03fde) #css ends  */
 /*****single*****/
 
@@ -142,16 +145,34 @@
 .formfeml7xrw329 h1{
     font-size: 32px
 }
+.formfeml7xrw329 .lead {
+    font-size: 20px
+}
+.formfeml7xrw329 .btn-secondary{
+    border-radius: 0px;
+    background-color: #7B33FD;
+    color: #fff;
+    font-weight: 600
+}
+.formfeml7xrw329 .btn-secondary:not(:disabled):not(.disabled):active{
+    border-radius: 0px;
+    background-color: #7B33FD;
+    color: #fff
+}
 /* #francesca(formfeml7xrw329) #css starts */
 /*****francesca*****/
 
 /*****fond*****/
     /* #fond(fondt37qz6qr2q) #css starts */
+    .fondt37qz6qr2q{
+        padding: 0.6rem 0
+       }
     .fondt37qz6qr2q a{
-        color: #7B33FD
+        color: #33363D
        }
        .fondt37qz6qr2q a:hover{
-        color: #7B33FD
+        color: #7B33FD;
+        font-weight: 600
        }
     /* #fond(fondt37qz6qr2q) #css ends */
 /*****fond*****/
