@@ -95,6 +95,15 @@
 .aboutd390a380620aac0e .video_card>.btn {
     color: #7B33FD
 }
+.aboutd390a380620aac0e .font-weight-bold {
+    font-weight: 500!important
+}
+.aboutd390a380620aac0e .video_card::before {
+    background-color: #828BB2
+}
+.aboutd390a380620aac0e .video_card>.btn:active{
+    color: #fff;
+}
 /* #atami(d390a380620aac0e) #css ends  */
 /*****atami*****/
 
